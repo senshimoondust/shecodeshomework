@@ -1,0 +1,51 @@
+body {
+  font-family: fantasy;
+  background-color: #e7eaf6;
+}
+
+hr {
+  height: 5px;
+  border: 1px solid #000000;
+}
+.current-city {
+  padding: 10px 25px;
+}
+.info {
+  height: 35px;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+
+.search {
+  margin: 10px;
+  background: #42b883;
+  color: #ffffff;
+  padding: 10px 10px;
+  border: 1px solid #42b883;
+  border-radius: 5px;
+}
+
+.current {
+  margin: 10px;
+  background: #ff5d6e;
+  color: #ffffff;
+  padding: 10px 10px;
+  border: 1px solid #ff5d6e;
+  border-radius: 5px;
+}
+
+.search:hover {
+  background-color: #c5f0a4;
+}
+
+.current:hover {
+  background-color: #ffb5b5;
+}
+
+.forecast {
+  background-color: #bbe4e9;
+  border: 1px solid #00204a;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 50px;
+}
